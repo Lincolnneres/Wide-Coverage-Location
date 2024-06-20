@@ -1,0 +1,168 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "poppins", sans-serif;
+}
+
+header {
+  margin: 42px 0 148px 44px;
+}
+
+.link-header {
+  margin-right: 29px;
+  width: 37px;
+  height: 21px;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 21px;
+  color: #17233d;
+  cursor: pointer;
+}
+
+.button-header {
+  width: 124px;
+  height: 51px;
+  background: #6fbf44;
+  border: 1px solid #4cb538;
+  border-radius: 6px;
+  font-size: 16px;
+  font-weight: 500;
+  color: #ffffff;
+  cursor: pointer;
+}
+
+img {
+  width: 569px;
+  height: 500px;
+  margin-left: 85px;
+}
+
+h1 {
+  width: 582px;
+  font-size: 62px;
+  font-weight: 700;
+  line-height: 82px;
+  color: #161a49;
+}
+
+p {
+  width: 493px;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 33px;
+  color: #4b505a;
+  margin: 53px 0 46px 0;
+}
+
+.link-right {
+  width: 112px;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 27px;
+  color: #6fbf44;
+  cursor: pointer;
+}
+.section-left {
+  display: inline-block;
+}
+
+.section-right {
+  display: inline-block;
+  margin-left: 83px;
+}
+
+.link-right:hover {
+  opacity: 0.5;
+}
+
+.link-header:hover {
+  opacity: 0.6;
+}
+
+.button-header:hover {
+  opacity: 0.4;
+}
+
+.link-right:active {
+  opacity: 0.3;
+}
+
+.button-header:active {
+  opacity: 0.2;
+}
+
+.link-header:active {
+  opacity: 0.3;
+}
+
+@media screen and (max-width: 800px) {
+  .link-header {
+    display: none;
+  }
+
+  h1 {
+    width: 278px;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 30px;
+    letter-spacing: 0.5961538553237915px;
+    text-align: center;
+    color: #161a49;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    align-items: center;
+    height: 0;
+    margin-left: 16px;
+  }
+  p {
+    width: 304px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 27px;
+    text-align: center;
+    color: #4b505a;
+    margin: 51px 92px 32px 0;
+  }
+
+  .link-right {
+    width: 112px;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 27px;
+    color: #6fbf44;
+    margin-right: 94px;
+    cursor: pointer;
+  }
+
+  img {
+    width: 244px;
+    height: 233px;
+    position: fixed;
+    margin: 277px 0 0 -130px;
+  }
+
+  .button-header {
+    width: 91px;
+    height: 31px;
+    border: 1px 0px 0px 0px;
+    background: #6fbf44;
+    border: 1px solid #4cb538;
+    font-size: 12px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    color: #ffffff;
+    position: fixed;
+    margin: -32% 0 0 50%;
+    cursor: pointer;
+  }
+  .div-main {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+  }
+}
