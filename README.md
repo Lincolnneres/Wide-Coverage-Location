@@ -13,6 +13,6 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="badge-css"/>
 <br>
 
-<img src="https://github.com/Lincolnneres/Wide-Coverage-Location-Responsivo/blob/main/assets/Mobile.png.png?raw=true" alt="mobile-wide-coverage" align="left" width= "470px" height="440px" align="left" />
+<img src="https://github.com/Lincolnneres/Wide-Coverage-Location-Responsivo/blob/main/assets/Mobile.png.png?raw=true" alt="mobile-wide-coverage" align="left" width= "470px" height="440px" align="center" />
 <br>
-<img src="https://github.com/Lincolnneres/Wide-Coverage-Location-Responsivo/blob/main/assets/Desktop.png.png?raw=true" alt="desktop-wide-coverage" align="left" widt="480px" height="450"/>
+<img src="https://github.com/Lincolnneres/Wide-Coverage-Location-Responsivo/blob/main/assets/Desktop.png.png?raw=true" alt="desktop-wide-coverage" align="center" widt="480px" height="450"/>
