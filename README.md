@@ -15,4 +15,4 @@
 
 <img src="https://github.com/Lincolnneres/Wide-Coverage-Location-Responsivo/blob/main/assets/Mobile.png.png?raw=true" alt="mobile-wide-coverage" align="left" width= "470px" height="440px" align="left" />
 <br>
-<img src="https://github.com/Lincolnneres/Wide-Coverage-Location-Responsivo/blob/main/assets/Desktop.png.png?raw=true" alt="desktop-wide-coverage" align="right" widt="480px" height="450"/>
+<img src="https://github.com/Lincolnneres/Wide-Coverage-Location-Responsivo/blob/main/assets/Desktop.png.png?raw=true" alt="desktop-wide-coverage" align="start" widt="480px" height="450"/>
