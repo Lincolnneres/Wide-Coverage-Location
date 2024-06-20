@@ -13,6 +13,9 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="badge-css"/>
 <br>
 
+<div>
+  
 <img alt="mobile-wide-coverage" align="center" width= "470px" height="440px" align="left" src="https://github.com/Lincolnneres/Wide-Coverage-Location-Responsivo/blob/main/assets/Mobile.png.png?raw=true"/>
-<br>
 <img  alt="desktop-wide-coverage" align="center" widt="480px" height="450" src="https://github.com/Lincolnneres/Wide-Coverage-Location-Responsivo/blob/main/assets/Desktop.png.png?raw=true"/>
+
+</div>
