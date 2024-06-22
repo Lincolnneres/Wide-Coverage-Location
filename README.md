@@ -15,8 +15,8 @@
 
 <div align="center">
 <div style="display: flex;">
-    <img src="https://github.com/Lincolnneres/Wide-Coverage-Location-Responsivo/blob/main/assets/Mobile.png.png?raw=true" alt="mobile-wide-coverage"  width= "400px" height="370px" align="left" />
-  <img src="https://github.com/Lincolnneres/Wide-Coverage-Location-Responsivo/blob/main/assets/Desktop.png.png?raw=true" alt="desktop-wide-coverage" widt="480px" height="450"  style= "vertical-align: top;"/>
+    <img src="https://github.com/Lincolnneres/Wide-Coverage-Location-Responsivo/blob/main/assets/Mobile.png.png?raw=true" alt="mobile-wide-coverage"  width= "400px" height="370px" align="left" style= "vertical-align: top;" />
+  <img src="https://github.com/Lincolnneres/Wide-Coverage-Location-Responsivo/blob/main/assets/Desktop.png.png?raw=true" alt="desktop-wide-coverage" widt="480px" height="450"  />
 </div>
   </div>
 
