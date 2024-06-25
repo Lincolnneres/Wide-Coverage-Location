@@ -16,7 +16,7 @@
 
 <div align= "top" >
     <img src="https://github.com/Lincolnneres/Wide-Coverage-Location-Responsivo/blob/main/assets/Mobile.png.png?raw=true" alt="mobile-wide-coverage" height="400px"/>
-  <img src="https://github.com/Lincolnneres/Wide-Coverage-Location-Responsivo/blob/main/assets/Desktop.png.png?raw=true" alt="desktop-wide-coverage" height="400"  />
+  <img src="https://github.com/Lincolnneres/Wide-Coverage-Location-Responsivo/blob/main/assets/Desktop.png.png?raw=true" alt="desktop-wide-coverage" height="400px"  />
 </div>
  
 
